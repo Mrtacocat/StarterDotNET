@@ -1,0 +1,15 @@
+/workspaces/StarterDotNET/Project1/bin/Debug/net7.0/HelloWordCodeSpaces
+/workspaces/StarterDotNET/Project1/bin/Debug/net7.0/HelloWordCodeSpaces.deps.json
+/workspaces/StarterDotNET/Project1/bin/Debug/net7.0/HelloWordCodeSpaces.runtimeconfig.json
+/workspaces/StarterDotNET/Project1/bin/Debug/net7.0/HelloWordCodeSpaces.dll
+/workspaces/StarterDotNET/Project1/bin/Debug/net7.0/HelloWordCodeSpaces.pdb
+/workspaces/StarterDotNET/Project1/obj/Debug/net7.0/HelloWordCodeSpaces.csproj.AssemblyReference.cache
+/workspaces/StarterDotNET/Project1/obj/Debug/net7.0/HelloWordCodeSpaces.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/StarterDotNET/Project1/obj/Debug/net7.0/HelloWordCodeSpaces.AssemblyInfoInputs.cache
+/workspaces/StarterDotNET/Project1/obj/Debug/net7.0/HelloWordCodeSpaces.AssemblyInfo.cs
+/workspaces/StarterDotNET/Project1/obj/Debug/net7.0/HelloWordCodeSpaces.csproj.CoreCompileInputs.cache
+/workspaces/StarterDotNET/Project1/obj/Debug/net7.0/HelloWordCodeSpaces.dll
+/workspaces/StarterDotNET/Project1/obj/Debug/net7.0/refint/HelloWordCodeSpaces.dll
+/workspaces/StarterDotNET/Project1/obj/Debug/net7.0/HelloWordCodeSpaces.pdb
+/workspaces/StarterDotNET/Project1/obj/Debug/net7.0/HelloWordCodeSpaces.genruntimeconfig.cache
+/workspaces/StarterDotNET/Project1/obj/Debug/net7.0/ref/HelloWordCodeSpaces.dll

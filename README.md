@@ -1,2 +1,2 @@
 # StarterDotNET
-This is a starter guide for .NET
+This is for learning C#
